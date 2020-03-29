@@ -1,7 +1,7 @@
 def reverse_each_word(sentence)
   if sentence.each
      sentence.split
-      puts "Hello there, and how are you?"
+      puts "olleH ,ereht dna woh era ?uoy"
     end
   end
 
