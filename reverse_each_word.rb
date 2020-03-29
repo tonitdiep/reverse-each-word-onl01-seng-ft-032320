@@ -1,3 +1,4 @@
+sentence = "Hello there, and how are you?"
 def reverse_each_word(sentence)
   if sentence1.split
     puts sentence1
