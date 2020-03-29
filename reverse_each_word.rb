@@ -1,5 +1,9 @@
 def reverse_each_word(sentence)
-  if sentence.each_char { |char|  } 
+  if sentence.each
+     sentence.split
+      puts "Hello there, and how are you?"
+    end
+  end
 
 
 
