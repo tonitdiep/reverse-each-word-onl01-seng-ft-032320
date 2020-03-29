@@ -1,7 +1,7 @@
 def reverse_each_word(sentence)
   array1 = sentence.reverse
   array2 = sentence.split
-  sentence.collect << array1
+  array1 << sentence.collect 
 
   #def reverse_each_word(sentence)
   #turn the sentence into an array
