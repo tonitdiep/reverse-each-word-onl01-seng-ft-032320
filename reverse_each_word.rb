@@ -1,10 +1,7 @@
 def reverse_each_word(sentence)
   array1 = sentence.split
-    puts sentence
-  end
- array2 = sentence.reverse
-    puts
- end
+  array2 = sentence.reverse
+  
 
   #def reverse_each_word(sentence)
   #turn the sentence into an array
