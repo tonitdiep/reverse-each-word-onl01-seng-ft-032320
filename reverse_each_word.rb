@@ -3,6 +3,7 @@ def reverse_each_word(sentence)
     puts sentence
   end
  sentence.reverse
+ end
 
   #def reverse_each_word(sentence)
   #turn the sentence into an array
