@@ -2,6 +2,10 @@ def reverse_each_word(sentence)
   sentence.split
     puts sentence
   end
+
+def reverse_each_word(sentence)
+  sentence.split("")
+    puts sentence
 end
 
   #def reverse_each_word(sentence)
