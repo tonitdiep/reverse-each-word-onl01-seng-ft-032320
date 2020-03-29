@@ -1,7 +1,6 @@
 def reverse_each_word(sentence)
-  sentence = "Hello there, and how are you?"  
-  if sentence1.split
-    puts sentence1
+  sentence1.split
+    puts sentence
   end
   #def reverse_each_word(sentence)
   #turn the sentence into an array
