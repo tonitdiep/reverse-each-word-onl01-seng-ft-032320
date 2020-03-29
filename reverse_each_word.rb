@@ -1,6 +1,6 @@
 def reverse_each_word(sentence)
   if sentence.split and .join()
-
+end
   #def reverse_each_word(sentence)
   #turn the sentence into an array
   #iterate over each word
