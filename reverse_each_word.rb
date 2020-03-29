@@ -1,12 +1,9 @@
 def reverse_each_word(sentence)
-  sentence.split
+  sentence.split.each
     puts sentence
   end
 
-def reverse_each_word(sentence)
-  sentence.split("")
-    puts sentence
-end
+
 
   #def reverse_each_word(sentence)
   #turn the sentence into an array
